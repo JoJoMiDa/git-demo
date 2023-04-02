@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 main
 main
 main
@@ -7,3 +8,5 @@ main
 main
 main
 main
+=======
+>>>>>>> hot-fix
